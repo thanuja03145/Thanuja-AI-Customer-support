@@ -1,0 +1,6 @@
+text
+.env
+_pycache_/
+*.pyc
+.venu/
+venu/
