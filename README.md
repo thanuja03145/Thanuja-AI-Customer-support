@@ -1,4 +1,4 @@
-
+AI CUSTOMER SUPPORT ASSISTANT
 ## 👤 Developer Information
 * **Project Title:** ThanujaK-AI-Customer-Support
 * **Developer Name:** Thanuja K
