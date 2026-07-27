@@ -6,7 +6,8 @@ AI CUSTOMER SUPPORT ASSISTANT
 ---
 ##📸Aplication Demo
 
-[Aplication Demo](demo.png)
+![chatbot screenshot](100006730.jpg)
+![chatbot screenshot](100006731.png)
 
 ---
 
